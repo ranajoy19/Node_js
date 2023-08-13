@@ -1,0 +1,16 @@
+{
+  "type": "module",
+  "dependencies": {
+    "node": "^20.5.0"
+  },
+  "name": "middleware",
+  "version": "1.0.0",
+  "description": "new middelware",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
